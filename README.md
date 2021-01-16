@@ -11,7 +11,7 @@ Taking a Linux environment as our point of reference, first you need to clone th
 then you navigate to the folder 
 
 ```bash
-cd news_aggregator
+cd news-aggregator
 ```
 
 then you have to set up a python virtual environment
