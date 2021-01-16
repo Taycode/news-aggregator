@@ -4,9 +4,9 @@ This is a news api built upon News API and Reddit API
 
 To run the application, you need to install the dependencies first. 
 
-Taking a Linux environment as our point of reference 
+Taking a Linux environment as our point of reference, first you need to clone this repo.
 
-first you need to clone this repo
+```git clone https://github.com/Taycode/news-aggregator.git```
 
 then you navigate to the folder 
 
