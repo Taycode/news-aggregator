@@ -37,7 +37,13 @@ fill in the correct credentials
 
 After setting the right credentials in `.env`
 
-you can now run the FastAPI APP
+First, we should run Unit test on the app to be sure everything works fine
+
+```
+pytest
+```
+
+When the test is successful, you can now run the FastAPI APP
 
 ```bash
 uvicorn main:app --reload
