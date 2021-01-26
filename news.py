@@ -3,10 +3,13 @@
 import requests
 import os
 from dotenv import load_dotenv
+from base import BaseWrapper
+
+
 load_dotenv()
 
 
-class NewsAPIWrapper(object):
+class NewsAPIWrapper(BaseWrapper):
 	"""News API Wrapper"""
 
 	def __init__(self):
